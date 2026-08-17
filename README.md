@@ -102,7 +102,7 @@ The HTML report provides a visual security assessment containing findings, score
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/websentinel.git
+git clone https://github.com/sara-cybsec/websentinel.git
 cd websentinel
 ```
 
